@@ -7,6 +7,11 @@ user-agent: GreenDiscord
 sites:
   - name: Main Site
     url: apolga.com
+    xpectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 500
     __dangerous__insecure: true
   - name: EU 1
     url: $APOLGA_EU

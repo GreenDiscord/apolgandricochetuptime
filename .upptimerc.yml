@@ -5,13 +5,13 @@ repo:  apolgandricochetuptime
 sites:
   - name: Main Site
     url: https://apolga.com
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
   - name: EU 1
     url: https://$APOLGA_EU
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
   - name: NA 1
     url: https://$APOLGA_NA
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
   - name: Ricochet EU
     check: "tcp-ping"
     url: $RICOCHET_EU

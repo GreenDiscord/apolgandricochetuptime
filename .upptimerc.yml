@@ -6,9 +6,22 @@ sites:
   - name: Main Site
     url: https://apolga.com
   - name: EU 1
-    url: https://eu.apolga.com
+    url: https://$APOLGA_EU
   - name: NA 1
-    url: https://na.apolga.com
+    url: https://$APOLGA_NA
+  - name: Ricochet EU
+    check: "tcp-ping"
+    url: $RICOCHET_EU
+    port: 27015
+  - name: Ricochet NA
+    check: "tcp-ping"
+    url: $RICOCHET_NA
+    port: 27015
+
+
+assignees:
+  - GreenDiscord
+
 
 status-website:
   cname: status.apolga.com

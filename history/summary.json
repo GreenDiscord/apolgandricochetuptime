@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apolga.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 15
+      "2023-01-28": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://$APOLGA_EU",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "eu-1",
-    "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.65%",
+    "uptimeDay": "0.65%",
+    "uptimeWeek": "0.65%",
+    "uptimeMonth": "0.65%",
+    "uptimeYear": "0.65%",
+    "time": 446,
+    "timeDay": 446,
+    "timeWeek": 446,
+    "timeMonth": 446,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-01-28": 15
+      "2023-01-28": 19
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "na-1",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 15
+      "2023-01-28": 19
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ricochet-eu",
     "status": "down",
-    "uptime": "17.20%",
-    "uptimeDay": "17.20%",
-    "uptimeWeek": "17.20%",
-    "uptimeMonth": "17.20%",
-    "uptimeYear": "17.20%",
+    "uptime": "1.30%",
+    "uptimeDay": "1.30%",
+    "uptimeWeek": "1.30%",
+    "uptimeMonth": "1.30%",
+    "uptimeYear": "1.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-28": 4
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ricochet-na",
     "status": "down",
-    "uptime": "8.29%",
-    "uptimeDay": "8.29%",
-    "uptimeWeek": "8.29%",
-    "uptimeMonth": "8.29%",
-    "uptimeYear": "8.29%",
+    "uptime": "0.75%",
+    "uptimeDay": "0.75%",
+    "uptimeWeek": "0.75%",
+    "uptimeMonth": "0.75%",
+    "uptimeYear": "0.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-28": 4
     }
   }
 ]

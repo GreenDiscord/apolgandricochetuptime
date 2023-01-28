@@ -6,13 +6,13 @@ user-agent: GreenDiscord
 
 sites:
   - name: Main Site
-    url: https://apolga.com
+    url: apolga.com
     __dangerous__insecure: true
   - name: EU 1
-    url: https://$APOLGA_EU
+    url: $APOLGA_EU
     __dangerous__insecure: true
   - name: NA 1
-    url: https://$APOLGA_NA
+    url: $APOLGA_NA
     __dangerous__insecure: true
   - name: Ricochet EU
     check: "tcp-ping"

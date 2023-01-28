@@ -2,6 +2,8 @@ owner: greendiscord
 repo:  apolgandricochetuptime
 
 
+user-agent: GreenDiscord
+
 sites:
   - name: Main Site
     url: https://apolga.com

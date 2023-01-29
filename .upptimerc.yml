@@ -6,7 +6,7 @@ user-agent: GreenDiscord
 
 sites:
   - name: Main Site
-    url: apolga.com/auth/login/
+    url: https://apolga.com/auth/login/
     xpectedStatusCodes:
       - 200
       - 201
@@ -44,7 +44,5 @@ status-website:
       href: /
     - title: Apolga
       href: https://apolga.com
-    - title: More
-      href: #
 
 

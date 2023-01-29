@@ -10,7 +10,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 404
       - 500
     __dangerous__insecure: true
   - name: EU 1

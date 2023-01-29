@@ -7,7 +7,7 @@ user-agent: GreenDiscord
 sites:
   - name: Main Site
     url: https://apolga.com/auth/login/
-    xpectedStatusCodes:
+    expectedStatusCodes:
       - 200
       - 201
       - 404
